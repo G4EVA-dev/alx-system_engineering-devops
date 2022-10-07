@@ -1,2 +1,2 @@
 #!/bin/bash
---refernce-olleh hello
+--refernce=olleh hello
